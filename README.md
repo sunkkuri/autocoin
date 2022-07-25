@@ -1,0 +1,2 @@
+# autocoin
+upbit coin
